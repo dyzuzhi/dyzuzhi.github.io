@@ -1,5 +1,5 @@
-var _ifr_1_pop={"id":1,"fid":1,"url":"https:\/\/cl2019.ga\/","url2":"","pic1":"https:\/\/cdn.cdntxt2.com\/ad\/clsq\/clsq.gif","pic2":"","width":"960","height":"60"};
-var _ifr_2_pop={"id":2,"fid":1,"url":"http:\/\/182.16.110.123:2999\/20065\/20065.html","url2":"","pic1":"https:\/\/cdn.cdntxt2.com\/ad\/qq56796885\/960x80-1.gif","pic2":"","width":"960","height":"60"};
+var _ifr_1_pop={"id":1,"fid":1,"url":"https:\/\/cl2019.ga\/","url2":"","pic1":"https:\/\/cdn.cdntxt2.com\/ad\/clsq\/clsq.gif","pic2":"","width":"980","height":"60"};
+var _ifr_2_pop={"id":2,"fid":1,"url":"http:\/\/182.16.110.123:2999\/20065\/20065.html","url2":"","pic1":"https:\/\/cdn.cdntxt2.com\/ad\/qq56796885\/960x80-1.gif","pic2":"","width":"980","height":"60"};
 var _ifr_3_pop={"id":3,"fid":1,"url":"http:\/\/182.16.110.123:3999\/20065\/20065.html","url2":"","pic1":"https:\/\/cdn.cdntxt2.com\/ad\/qq56796885\/960x80-2.gif","pic2":"","width":"960","height":"60"};
 var _ifr_4_pop={"id":4,"fid":1,"url":"http:\/\/47.75.65.160:49999\/53758075.html","url2":"","pic1":"https:\/\/cdn.cdntxt2.com\/ad\/qq56796885\/960x80-3.gif","pic2":"","width":"960","height":"60"};
 var _ifr_5_pop={"id":5,"fid":1,"url":"https:\/\/58855268.com\/axun8.html","url2":"","pic1":"https:\/\/cdn.cdntxt2.com\/ad\/1467890860\/960x60.gif","pic2":"","width":"960","height":"60"};
