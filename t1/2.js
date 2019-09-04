@@ -13,7 +13,7 @@ var _ifr_10_pop={"id":10,"fid":1,"url":"https:\/\/cc6957.com\/","url2":"","pic1"
 var _ifr_11_pop={"id":11,"fid":1,"url":"https:\/\/58855268.com\/axun8.html","url2":"","pic1":"https:\/\/cdn.cdntxt2.com\/ad\/1467890860\/960x60.gif","pic2":"","width":"960","height":"60"};
 var _ifr_12_pop={"id":12,"fid":1,"url":"https:\/\/58855268.com\/axun8.html","url2":"","pic1":"https:\/\/cdn.cdntxt2.com\/ad\/1467890860\/960x60.gif","pic2":"","width":"960","height":"60"};
 
-var _ifr_13_pop={"id":13,"fid":1,"url":"https:\/\/1024dy1.com\/","url2":"","pic1":"https:\/\/cdn.cdntxt2.com\/ad\/960X60.gif","pic2":"","width":"980","height":"60"};
+var _ifr_13_pop={"id":13,"fid":1,"url":"https:\/\/www.365efg.com\/","url2":"","pic1":"https:\/\/cdn.cdntxt2.com\/ad\/960X60.gif","pic2":"","width":"980","height":"60"};
 var _ifr_14_pop={"id":14,"fid":1,"url":"https:\/\/1024dy1.com\/","url2":"","pic1":"https:\/\/cdn.cdntxt2.com\/ad\/960X60.gif","pic2":"","width":"960","height":"60"};
 var _ifr_15_pop={"id":15,"fid":1,"url":"https:\/\/1024dy1.com\/","url2":"","pic1":"https:\/\/cdn.cdntxt2.com\/ad\/960X60.gif","pic2":"","width":"960","height":"60"};
 var _ifr_16_pop={"id":16,"fid":1,"url":"https:\/\/1024dy1.com\/","url2":"","pic1":"https:\/\/cdn.cdntxt2.com\/ad\/960X60.gif","pic2":"","width":"960","height":"60"};
@@ -31,8 +31,8 @@ var _ifr_24_pop={"id":24,"fid":5,"url":"http:\/\/www.13888888888.ml\/.well-known
 var _ifr_25_pop={"id":25,"fid":6,"url":"https:\/\/1024dy1.com\/","url2":"","pic1":"https:\/\/cdn.cdntxt2.com\/ad\/220X220.gif","pic2":"","width":"180","height":"180"};
 var _ifr_26_pop={"id":26,"fid":7,"url":"https:\/\/1024dy1.com\/","url2":"","pic1":"https:\/\/cdn.cdntxt2.com\/ad\/220X220.gif","pic2":"","width":"180","height":"180"};
 
-var _ifr_27_pop={"id":27,"fid":8,"url":"http:\/\/www.6175t.com\/?Intr=53850258","url2":"","pic1":"https:\/\/cdn.cdntxt2.com\/ad\/qq2407907495\/180x180.gif","pic2":"","width":"180","height":"180"};
-var _ifr_28_pop={"id":28,"fid":9,"url":"http:\/\/www.6175t.com\/?Intr=53850258","url2":"","pic1":"https:\/\/cdn.cdntxt2.com\/ad\/qq2407907495\/180x180.gif","pic2":"","width":"180","height":"180"};
+var _ifr_27_pop={"id":27,"fid":8,"url":"http:\/\/www.365efg.com\/","url2":"","pic1":"https:\/\/cdn.cdntxt2.com\/ad\/220X220.gif","pic2":"","width":"180","height":"180"};
+var _ifr_28_pop={"id":28,"fid":9,"url":"http:\/\/www.365efg.com\/","url2":"","pic1":"https:\/\/cdn.cdntxt2.com\/ad\/220X220.gif","pic2":"","width":"180","height":"180"};
 
 var _ifr_29_pop={"id":29,"fid":1,"url":"https:\/\/qp6318.com\/","url2":"","pic1":"https:\/\/cdn.cdntxt2.com\/ad\/487779458\/l.gif","pic2":"","width":"280","height":"120"};
 var _ifr_30_pop={"id":30,"fid":1,"url":"https:\/\/qp6318.com\/","url2":"","pic1":"https:\/\/cdn.cdntxt2.com\/ad\/487779458\/r.gif","pic2":"","width":"280","height":"120"};
